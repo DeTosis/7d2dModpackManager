@@ -18,6 +18,6 @@ If you have .Net Framework 9.0:
 [Releases page](https://github.com/DeTosis/7d2dModpackManager/releases)
 
 ### Known Issues
-[ ] Currently only standart steam folder is supported
-[ ] Pack validation is not done
-[ ] Saves are not separated for a different packs
+[ ] Currently only standart steam folder is supported  
+[ ] Pack validation is not done  
+[ ] Saves are not separated for a different packs  
