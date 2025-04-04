@@ -9,7 +9,7 @@ After modpack is created, you can type "-clr", to clear mods folder and add more
 ![image_2025-04-04_17-46-43](https://github.com/user-attachments/assets/781febb0-090c-4d0b-b0c9-868617e4efa6)
 
 Also you can use -s to open settings window.  
-At the settings page you can change standart game folder or mpm root folder.  
+At the settings page you can change standart game folder or mpm root folder or choose if you want to automaticly start the game after mod pack is loaded.  
 
 ### Requirements and installation
 IF you dont have .Net Framework 9.0:
@@ -21,5 +21,6 @@ If you have .Net Framework 9.0:
 [Releases page](https://github.com/DeTosis/7d2dModpackManager/releases)
 
 ### Known Issues
+[ ] Settings are not saved yet  
 [ ] Pack validation is not done  
 [ ] Saves are not separated for a different packs  
